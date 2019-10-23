@@ -1,9 +1,9 @@
-#Team - hva det er 
+# Team - hva det er 
 
-##En gruppe
+## En gruppe
 Mål, gjensidig avhengighet, samarbeid, oppfattelse av medlemskap, gjensidig påvirkning, struktur, motivasjon for samarbeid. Et mer omfattende begrep enn et team
 
-##Et team 
+## Et team 
 - Et fokus på prestasjon
 - Disiplinert handling
 - Gjerne mindre (3-10 ofte)

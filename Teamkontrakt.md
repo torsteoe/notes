@@ -1,19 +1,19 @@
-#Teamkontrakt - med utgangspunkt i MRPI
+# Teamkontrakt - med utgangspunkt i MRPI
 
-##Fire momenter må avklares
+## Fire momenter må avklares
 1. Mål
 2. Roller
 3. Prosedyrer
 4. Interpersonlige forhold
 
-###Mål
+### Mål
 - helhetlig fokusområde (kvantitet, kvalitet, tempo etc.)
 - felles for alle
 - Ambisiøse med måte
 - utvetydig
 - enighet
 
-###Rolle
+### Rolle
 - Visse roller går igjen, hvem har ansvar for fremdrift etc.
 - bør avklares i starten
 - tre faktorer som former rollene
@@ -22,12 +22,12 @@
   3. Selve oppgaven
 
 
-###Prosedyrer
+### Prosedyrer
 - Regler, normer, rutiner
 - Hvordan drive det praktiske teamarbeidet
 - Hvordan tar man beslutninger, opplæring etc.
 
-###Interpersonlige forhold
+### Interpersonlige forhold
 
 - Gode sosiale forhold
 - Tillit

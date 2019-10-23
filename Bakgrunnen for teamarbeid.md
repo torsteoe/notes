@@ -1,6 +1,6 @@
-#Bakgrunn for teamarbeid
+# Bakgrunn for teamarbeid
 
-##Første systematiske forskning på 20/30-tallet:
+## Første systematiske forskning på 20/30-tallet:
 - en fabrikk i Chicago
 - kunstig lys
   - Redusere skadeomfang
@@ -11,13 +11,13 @@
   - Sterk gruppeidentitet
   - Oppmerksomhet fra ledere
 
-##Produktivitet øker ikke med teknologi
+## Produktivitet øker ikke med teknologi
 
 - Færre uformelle grupper, mer misnøye/sykefravær
 - Det blir grogrunn for den [sosiotekniske skole](sosiotekniske skole)
 
 
-##Eksperimentene i Norge
+## Eksperimentene i Norge
 - Einar Thorsrud
 - Norske politikere som ønsker å utvikle bedriftsdemokratiet
 - Tidlig 60-tallet
