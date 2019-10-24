@@ -49,5 +49,6 @@ Første ordens betingelse for minimum AC:
 Andre ordens betingelse for minimum AC:
 
 ![Total costs graph](https://image.slidesharecdn.com/microeconomics-cost-functions-110208053027-phpapp02/95/microeconomics-cost-functions-29-638.jpg?cb=1484748550)
+![Relationship AC and MC](http://cdn.economicsdiscussion.net/wp-content/uploads/2018/06/clip_image052-1.jpg)
 
 [Back to Produksjonsteori](Produksjonsteori)
