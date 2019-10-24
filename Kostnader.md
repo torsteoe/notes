@@ -1,7 +1,7 @@
 
 ## Kostnader
 
-###Type kostnader
+### Type kostnader
 
 #### TC(Q): Totale kostnader som funksjon av produsert mengde, Q
 
@@ -42,5 +42,12 @@ Variable costs
 
 ### Hvordan minimere gjennomsnittskostnader?
 
+Første ordens betingelse for minimum AC:
+- d/dQ (AC) = 0 => d/dQ (TC/Q) = (1/Q) x (MC-AC) = 0
+- => AC = MC
+
+Andre ordens betingelse for minimum AC:
+
+![Total costs graph](https://image.slidesharecdn.com/microeconomics-cost-functions-110208053027-phpapp02/95/microeconomics-cost-functions-29-638.jpg?cb=1484748550)
 
 [Back to Produksjonsteori](Produksjonsteori)
