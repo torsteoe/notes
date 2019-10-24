@@ -65,4 +65,4 @@ er |e| < 1, etterspørsel **uelastisk**
 **Merk: MR = dP/dQ +P = P(dP/dQ x Q/P +1)**
            = P(-1/epsilon +1)
 => vi ønsker elastisk etterspørsel, positiv marginalinntekt.
-[Back to Produksjonsteori](Produksjonsteori)
+[Back to Produksjonsteori](Produksjonsteori.md)
