@@ -1,0 +1,3 @@
+# Økonomi
+
+[## Produksjonsteori](Produksjonsteori)
