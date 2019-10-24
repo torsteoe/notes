@@ -16,7 +16,7 @@ dP/dQxQ +P = MC, MC = P
 
 Antar økende marginalkostnader, helt til pris når MC, 
 
-![se graf:](https://en.wikipedia.org/wiki/Marginal_cost#/media/File:Costcurve_-_Marginal_Cost_2.svg)
+![se graf:](http://oer2go.org/mods/en-boundless/figures.boundless-cdn.com/20217/raw/costcurve-combined.jpg)
 
 
 [Back to Produksjonsteori](Produksjonsteori)
